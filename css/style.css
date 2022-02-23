@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(255, 213, 151);
+}
+.title{
+    color: rgb(255, 140, 0);
+}
+
+#button-addon2{
+    font-weight: bold;
+    background-color: rgb(255, 140, 0);
+    color: white;
+    border: 2px solid rgb(255, 140, 0);
+}
+#button-addon2:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 140, 0);
+    border-radius: 5px;
+}
+
+.card button{
+    font-weight: bold;
+    background-color: rgb(255, 140, 0);
+    color: white;
+    border: 2px solid rgb(255, 140, 0);
+}
+.card button:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 140, 0);
+    border-radius: 5px;
+    border: 2px solid rgb(255, 140, 0);
+}
